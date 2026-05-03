@@ -5,3 +5,5 @@ curl -sL https://github.com/Sochamroun/Termux-setup-server-minecraft/raw/refs/he
 ```
 ## Download script install-setup
 ```bash
+curl -O https://github.com/Sochamroun/Termux-setup-server-minecraft/raw/refs/heads/main/server-install.sh && chmod +x server-install.sh
+```
