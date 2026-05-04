@@ -3,7 +3,18 @@
 ```bash
 curl -sL https://github.com/Sochamroun/Termux-setup-server-minecraft/raw/refs/heads/main/server-setup.sh | bash
 ```
-## Download script install-setup
+## Download script install-setup 😎
 ```bash
 curl -L -o server-install.sh https://raw.githubusercontent.com/Sochamroun/Termux-setup-server-minecraft/ea1e43c991e4e552c4365cb90eead8c386b6d3d8/server-install.sh && chmod +x server-install.sh
 ```
+## To install server run cmd 💽
+```bash
+bash server-install.sh
+```
+## Now to start servers host ✅
+- `ls` to show all file
+- `bash` to run file .sh
+- `bash (name) server`
+## To open folders 📂
+[Install App]( )
+## Video step 
