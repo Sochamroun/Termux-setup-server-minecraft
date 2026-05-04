@@ -15,6 +15,7 @@ bash server-install.sh
 - `ls` to show all file
 - `bash` to run file .sh
 - `bash (name) server`
-## To open folders 📂
-[Install App]( )
+## To open folders termux 📂
+[Install App](https://play.google.com/store/apps/details?id=me.zhanghai.android.files )
 ## Video step 
+[Link Video](https://vt.tiktok.com/ZS9QeYNGp/)
