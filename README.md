@@ -17,5 +17,7 @@ bash server-install.sh
 - `bash (name) server`
 ## To open folders termux 📂
 [Install App](https://play.google.com/store/apps/details?id=me.zhanghai.android.files )
-## Video step 
+## Video step Folders 📁 
 [Link Video](https://vt.tiktok.com/ZS9QeYNGp/)
+## video step install server Minecraft 
+[link Video]()
